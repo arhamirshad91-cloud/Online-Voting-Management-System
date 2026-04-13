@@ -42,7 +42,7 @@ A simple **command-line based Online Voting System** built using Python. This pr
 
 ---
 
-Project Structure
+## Project Structure
 
 ```
 online-voting-system/
@@ -53,27 +53,6 @@ online-voting-system/
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/online-voting-system.git
-   ```
-
-2. Navigate to the project folder:
-
-   ```bash
-   cd online-voting-system
-   ```
-
-3. Run the program:
-
-   ```bash
-   python voting.py
-   ```
-
----
 
 ## Sample Workflow
 
